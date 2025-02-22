@@ -1,77 +1,13 @@
-Projeto em C
 
-Descrição
+# Projeto em C
+Projeto desenvolvido com a finalidade para um desenvolver o sistema inicial de cadastro de cartas. 
 
-Este é um projeto desenvolvido em linguagem C para [descreva a finalidade do projeto]. Ele implementa funcionalidades como [liste algumas funcionalidades principais].
+## Requisitos
 
-Requisitos
+No Super Trunfo, jogadores competem usando cartas com diferentes atributos. Um jogador escolhe um atributo de sua carta e o outro jogador compara o mesmo atributo de sua própria carta. Quem tiver o valor mais alto para o atributo escolhido vence a rodada e leva as cartas do adversário.
 
-Antes de compilar e executar o projeto, certifique-se de ter instalado:
+## Autor
 
-Um compilador C (GCC, Clang, MSVC, etc.)
-
-CMake (opcional, se utilizado no projeto)
-
-Bibliotecas adicionais necessárias (se houver)
-
-Instalação e Compilação
-
-Clone este repositório:
-
-git clone https://github.com/seuusuario/seuprojeto.git
-cd seuprojeto
-
-Compile o código usando GCC:
-
-gcc -o programa principal.c -Wall
-
-Ou, se estiver utilizando CMake:
-
-mkdir build
-cd build
-cmake ..
-make
-
-Uso
-
-Para executar o programa, utilize o seguinte comando:
-
-./programa [opcoes]
-
-Exemplo de uso:
-
-./programa --modo=debug
-
-Estrutura do Projeto
-
-/
-|-- src/               # Código-fonte
-|-- include/           # Arquivos de cabeçalho
-|-- docs/              # Documentação
-|-- tests/             # Testes unitários
-|-- CMakeLists.txt     # Arquivo de configuração do CMake (se aplicável)
-|-- README.md          # Este arquivo
-
-Contribuição
-
-Se deseja contribuir para este projeto:
-
-Faça um fork do repositório
-
-Crie uma branch para sua feature/correção (git checkout -b minha-feature)
-
-Commit suas alterações (git commit -m 'Adiciona nova funcionalidade')
-
-Envie um push para sua branch (git push origin minha-feature)
-
-Abra um Pull Request
-
-Licença
-
-Este projeto está licenciado sob a [Nome da Licença]. Para mais informações, consulte o arquivo LICENSE.
-
-Autor
-
-Desenvolvido por [Seu Nome]. Contato: [Seu E-mail ou GitHub].
+Desenvolvido por Antonio Fernando S P Júnior. Contato: jufer376@gmail.com.
 
 
